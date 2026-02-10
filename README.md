@@ -13,11 +13,19 @@
 - 🏋🏽‍♂️ Levantar uns ferro é vida.
 - ♟️ Gosto de jogar Xadrez.
 
----
+<div>
+  <a href="https://www.linkedin.com/in/pedro-lourenco88/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.com/users/1203635759005835385" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:murilomatias410@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrolourenco88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br><br>
+##
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -25,4 +33,6 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /> 
-<div>         
+</div>   
+
+
