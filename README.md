@@ -33,7 +33,10 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /> 
-  ![Snake animation](https://github.com/pedrolourenco88/pedrolourenco88/blob/output/github-contribution-grid-snake.svg) 
 </div>   
 
+<div align="center">
+  
+  ![snake gif](https://github.com/pedrolourenco88/pedrolourenco88/blob/output/github-snake-dark.svg)
+</div>
 
